@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jacob Jiang
-- 👀 I’m interested in all the cool stuff, internet, iphone, apps, P2P, etc.
-- 🌱 I’m currently learning cryptography in Computer Science.
-- 💞️ I’m open to collaborate on various possibilities.
-- 📫 How to reach me jacob.jiang  at Microsoft or kof2003@126.com
+- 👀 I’m interested in all the cool stuff, internet, iphone, apps, P2P, AI, etc.
+- 🌱 I’m currently Building Copilot in Microsoft
+- 💞️ I’m open to various possibilities.
+- 📫 How to reach me jacob.jiang  at Microsoft or jiang.wei.jacob@gmail.com
 
 <!---
 jacobjiangwei/jacobjiangwei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
